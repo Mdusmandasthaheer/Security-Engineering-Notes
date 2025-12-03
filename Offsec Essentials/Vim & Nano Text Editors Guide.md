@@ -2,19 +2,6 @@
 <html>
 <head>
     <title>Vim & Nano Text Editors Guide</title>
-    <style>
-        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; }
-        h1, h2 { color: #333; }
-        h1 { border-bottom: 2px solid #007acc; padding-bottom: 10px; }
-        table { border-collapse: collapse; width: 100%; margin: 20px 0; }
-        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
-        th { background-color: #f2f2f2; font-weight: bold; }
-        code { background: #f4f4f4; padding: 2px 6px; border-radius: 3px; font-family: monospace; }
-        pre { background: #f4f4f4; padding: 15px; border-radius: 5px; overflow-x: auto; margin: 10px 0; }
-        .green { color: #28a745; }
-        .blue { color: #007bff; }
-        em { color: #666; font-style: italic; }
-    </style>
 </head>
 <body>
 
