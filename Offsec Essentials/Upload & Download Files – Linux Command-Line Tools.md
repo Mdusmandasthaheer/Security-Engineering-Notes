@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Upload & Download Files – Linux Command-Line Tools</title>
-</head>
 <body>
 
-<h1>📦 File Transfer Arsenal: SCP, Wget, Curl, Axel</h1>
+<h1>📦 Upload & Download Files – Linux Command-Line Tools</h1>
 <p><em>Your pentest toolkit for exfiltrating loot, uploading payloads, and downloading tools across networks.</em></p>
 
 <h2 class="lock">🔐 SCP – Secure Copy (SSH Encrypted)</h2>
