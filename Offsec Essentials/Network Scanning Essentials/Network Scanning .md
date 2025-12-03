@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Nmap Network Scanning Guide</title>
-    
-</head>
+
 <body>
 
 <h1>🔍 Nmap Network Scanning Essentials</h1>
