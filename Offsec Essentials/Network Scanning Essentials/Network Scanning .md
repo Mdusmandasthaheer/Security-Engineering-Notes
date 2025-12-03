@@ -2,27 +2,11 @@
 <html>
 <head>
     <title>Nmap Network Scanning Guide</title>
-    <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 900px; margin: 0 auto; padding: 30px 20px; line-height: 1.7; color: #333; }
-        h1 { color: #1a1a1a; border-bottom: 3px solid #e74c3c; padding-bottom: 15px; font-size: 2.2em; }
-        h2 { color: #2c3e50; margin-top: 40px; }
-        h3 { color: #34495e; margin-top: 25px; }
-        table { border-collapse: collapse; width: 100%; margin: 20px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
-        th, td { border: 1px solid #e0e0e0; padding: 14px 12px; text-align: left; }
-        th { background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%); color: white; font-weight: 600; }
-        code { background: #f8f9fa; padding: 4px 8px; border-radius: 4px; font-family: 'Monaco', 'Menlo', monospace; color: #d63384; }
-        pre { background: #2d3748; color: #e2e8f0; padding: 20px; border-radius: 8px; overflow-x: auto; margin: 15px 0; font-size: 14px; }
-        .scan-img { max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); margin: 20px 0; }
-        .example { background: #d4edda; border-left: 4px solid #28a745; padding: 12px; margin: 12px 0; border-radius: 4px; }
-        .scenario { background: #fff3cd; border-left: 4px solid #ffc107; padding: 12px; margin: 12px 0; border-radius: 4px; }
-        .warning { background: #f8d7da; border-left: 4px solid #dc3545; padding: 12px; margin: 12px 0; border-radius: 4px; }
-        ul { padding-left: 20px; }
-        li { margin-bottom: 8px; }
-    </style>
+    
 </head>
 <body>
 
-<h1>🔍 Nmap Network Scanning Mastery</h1>
+<h1>🔍 Nmap Network Scanning Essentials</h1>
 <p><strong>Network scanning</strong> is the first step in any pentest—discover live hosts, open ports, services, and OS versions to map your attack surface. Nmap is the gold standard.</p>
 
 <img src="https://github.com/Mdusmandasthaheer/Security-Engineering-Notes/blob/2c73057f044ed7427257c79cf905539ec7374be9/Offsec%20Essentials/Files/Screenshot-01.png" alt="Nmap Scan Output Example" class="scan-img">
